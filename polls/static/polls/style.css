@@ -1,0 +1,9 @@
+body {
+    background: white url("images/NCT.jpg") no-repeat;
+    background-position: top;
+    font-size: large;
+    color: lawngreen;
+}
+li a {
+    color: lawngreen;
+}
